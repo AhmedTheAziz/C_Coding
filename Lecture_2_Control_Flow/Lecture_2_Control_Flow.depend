@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699650434 source:d:\amit\lecture_2_control_flow\main.c
+	<stdio.h>
+	<stdlib.h>
+
